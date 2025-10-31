@@ -24,7 +24,7 @@ The figure below reports quantitative comparisons against baseline models.
 CausalHM improves both accuracy and fairness metrics.
 
 <p align="center">
-  <img src="result.PDF" width="600" />
+  <img src="result.png" width="600" />
 </p>
 # Case Study
 This figure highlights qualitative examples.  
