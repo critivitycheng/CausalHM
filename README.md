@@ -16,7 +16,7 @@ TOxiCN-MM: https://github.com/DUT-lujunyu/ToxiCN_MM
 # Framework Overview
 The following diagram shows the overall CausalHM pipeline.
 <p align="center">
-  <img src="framework3.pdf" width="600" />
+  <img src="framework3.png" width="600" />
 </p>
 # Experimental Results
 We evaluate CausalHM on Harm-C, Harm-P, FHM, and ToxiCN-MM.  
@@ -29,5 +29,5 @@ CausalHM improves both accuracy and fairness metrics.
 # Case Study
 This figure highlights qualitative examples.  
 <p align="center">
-  <img src="case_study.pdf" width="600" />
+  <img src="case_study.png" width="600" />
 </p>
