@@ -18,6 +18,7 @@ The following diagram shows the overall CausalHM pipeline.
 <p align="center">
   <img src="framework3.png" width="600" />
 </p>
+
 # Experimental Results
 We evaluate CausalHM on Harm-C, Harm-P, FHM, and ToxiCN-MM.  
 The figure below reports quantitative comparisons against baseline models.  
@@ -26,6 +27,7 @@ CausalHM improves both accuracy and fairness metrics.
 <p align="center">
   <img src="result.png" width="600" />
 </p>
+
 # Case Study
 This figure highlights qualitative examples.  
 <p align="center">
